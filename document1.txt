@@ -1,4 +1,4 @@
-hi
+집에 보내주세용
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
