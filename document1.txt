@@ -1,4 +1,4 @@
-집에 보내주세용
+한국 문학의 이해 휴강했으면 좋겟다,,,
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
